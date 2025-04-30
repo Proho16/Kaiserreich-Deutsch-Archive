@@ -1,7 +1,7 @@
 ﻿l_german:
 ### Übersetzt von DerEherneRächer ###
 ### World Tension ###
- war_in_the_desert_threat: "Krieg in der Wüste"
+ war_in_the_desert_threat: "Levante Krise"
  
  ### Events ###
  cp.1.t: "Das Ende einer Ära"
@@ -131,7 +131,7 @@
  cp.26.b: "Wir sollten nachgeben und in unser Gebiet zurückkehren."
 
  cp.27.t: "Die Wehrpflichtfrage"
- cp.27.d1: "Der angebrochene Krieg droht, das Osmanische Reich ein für alle Mal von den Weltkarten zu tilgen. Niemand der in seinem Haus kauert während sein Heimatland bedroht wird darf sich noch einen Mann nennen - und wer nicht freiwillig in den Krieg zieht, dem sollten wir durch einige Gesetztesänderungen wohl ein wenig Motivation schaffen. "
+ cp.27.d1: "Der angebrochene Krieg droht, das Osmanische Reich ein für alle Mal von den Weltkarten zu tilgen. Niemand der in seinem Haus kauert während sein Heimatland bedroht wird darf sich noch einen Mann nennen - und wer nicht freiwillig in den Krieg zieht, dem sollten wir durch einige Gesetztesänderungen wohl ein wenig Motivation schaffen."
  cp.27.d2: "Unsere Feinde sind zahlreich - darum müssen unsere Soldaten es auch sein. Zum Glück wurde bereits eine Wehrpflicht eingeführt, die uns bestens darauf vorbereitet, uns beiden Fronten dieses Konfliktes entgegenzustellen. Mit überlegener Ausrüstung und einer unerschöpflichen Reserve werden wir den Feinden des Hauses Osman schnell den Garaus machen."
  cp.27.a: "Der Sultan ruft!"
  cp.27.b: "Wir sind bereits bestens vorbereitet."
